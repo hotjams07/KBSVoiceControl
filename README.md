@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Voice Control System
 
 ## Overview
@@ -73,3 +74,6 @@ Project is in active development. Current focus is on stability and core functio
 
 ## License
 [Your License Here] 
+=======
+# KBSVoiceControl
+>>>>>>> 53cf0239c832c75cf0614f0f616e90d4db91541d
