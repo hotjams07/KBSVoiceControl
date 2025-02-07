@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+*.db
+vosk-model-small-en-us/
